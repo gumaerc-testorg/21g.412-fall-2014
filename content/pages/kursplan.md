@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Kursplan
 uid: 4095d203-abf5-dad4-a7fc-85396459d84b
 ---

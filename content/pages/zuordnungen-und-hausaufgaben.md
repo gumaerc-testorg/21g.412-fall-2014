@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Zuordnungen und Hausaufgaben
 uid: a5220f7a-d962-f3d9-def2-591a2767d8b9
 ---

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Materialien, Texte und Notizen
 uid: 8f935e55-bfb6-2b93-cb4b-250343184c1c
 ---
@@ -94,7 +96,7 @@ Besprechung des Textes
 {{< tdopen >}}
 _Scuderi_ lesen bis Ende
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 [Antiquierte Vokabeln im Text (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wk2-3_scu)
@@ -183,7 +185,7 @@ Textreferenzen
 {{< tdopen >}}
 Judenbuche lesen bis Ende
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 [Aufteilung Referate (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo3-4_ref_l)
@@ -260,7 +262,7 @@ Symbole und Themen
 {{< tdopen >}}
 _Bahnwärter_ bis Ende lesen
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 [Redemittel für Vergleiche (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo5-6_rede)
@@ -327,7 +329,7 @@ Formelle Aussagen zu einem Drama Kulissen, Bühnenbild, Kostüme
 {{< tdopen >}}
 _Dreigroschenoper_ bis S. 70 lesen
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="7" >}}
 
 
 [Wortfeld "Recht und Gesetz" Teil 3 (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo7-9_rec)
@@ -460,7 +462,7 @@ _Physiker_ bis Ende lesen
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 [Wortfeld "Recht und Gesetz" Teil 4 (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo10-11_rec)
@@ -535,7 +537,7 @@ Figurenanalyse
 {{< tdopen >}}
  
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 ### Film
@@ -616,7 +618,7 @@ Referat 5
 {{< tdopen >}}
  
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 ### Film

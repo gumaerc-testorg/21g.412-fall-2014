@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Resourcen
 uid: c593ec30-4587-9100-44af-c7ab943b7da5
 ---
