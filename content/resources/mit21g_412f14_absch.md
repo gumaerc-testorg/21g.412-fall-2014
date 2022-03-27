@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Zuordnungen und Hausaufgaben
 parent_type: CourseSection
+parent_uid: a5220f7a-d962-f3d9-def2-591a2767d8b9
 resourcetype: Document
 title: "Anleitung f\xFCr die Abschlussprojekte - 21G.412 Fall 2014"
 uid: 472036ab-8eb2-a9b4-67fa-68c90c5332a7

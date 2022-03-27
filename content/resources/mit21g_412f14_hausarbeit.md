@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Zuordnungen und Hausaufgaben
 parent_type: CourseSection
+parent_uid: a5220f7a-d962-f3d9-def2-591a2767d8b9
 resourcetype: Document
 title: Anleitungen zum 1. Ausatz - 21G.412 Fall 2014
 uid: 6637e607-3ae8-35c9-215f-d9e7a12f4267

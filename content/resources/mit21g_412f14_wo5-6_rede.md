@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Materialien, Texte und Notizen
 parent_type: CourseSection
+parent_uid: 8f935e55-bfb6-2b93-cb4b-250343184c1c
 resourcetype: Document
 title: "Redemittel f\xFCr Vergleiche - 21G.412 Fall 2014"
 uid: 2c6e9353-f0fc-9a60-381a-f86987dbacc5

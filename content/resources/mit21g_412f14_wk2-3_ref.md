@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Materialien, Texte und Notizen
 parent_type: CourseSection
+parent_uid: 8f935e55-bfb6-2b93-cb4b-250343184c1c
 resourcetype: Document
 title: 'Referate: Feedback - 21G.412 Fall 2014'
 uid: 8c2c8d6d-708e-5c53-bc3b-98952d46f2c0

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Materialien, Texte und Notizen
 parent_type: CourseSection
+parent_uid: 8f935e55-bfb6-2b93-cb4b-250343184c1c
 resourcetype: Document
 title: Temporale Diskursverbindungen - 21G.412 Fall 2014
 uid: 4b4aa803-e3cb-8787-8901-18f53363428b

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Materialien, Texte und Notizen
 parent_type: CourseSection
+parent_uid: 8f935e55-bfb6-2b93-cb4b-250343184c1c
 resourcetype: Document
 title: "Definition: Sittengem\xE4lde - 21G.412 Fall 2014"
 uid: 3c7682c0-5f51-c6e2-7608-842acace1b3f

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Materialien, Texte und Notizen
 parent_type: CourseSection
+parent_uid: 8f935e55-bfb6-2b93-cb4b-250343184c1c
 resourcetype: Document
 title: "\xDCber einen literarischen Text sprechen - 21G.412 Fall 2014"
 uid: 38003661-9ea1-4aa8-cdbc-c7d93ae6364a

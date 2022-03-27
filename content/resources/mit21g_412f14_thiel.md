@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Zuordnungen und Hausaufgaben
 parent_type: CourseSection
+parent_uid: a5220f7a-d962-f3d9-def2-591a2767d8b9
 resourcetype: Document
 title: "Hausaufgabe f\xFCr Donnerstag (2.10.) - 21G.412 Fall 2014"
 uid: 589f025e-6393-c4e6-6777-7682f064dbd7

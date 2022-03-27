@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Materialien, Texte und Notizen
 parent_type: CourseSection
+parent_uid: 8f935e55-bfb6-2b93-cb4b-250343184c1c
 resourcetype: Document
 title: "Formular f\xFCr Lesenotizen - 21G.412 Fall 2014"
 uid: a73edb1e-a735-cade-4678-87f645e8ebe1

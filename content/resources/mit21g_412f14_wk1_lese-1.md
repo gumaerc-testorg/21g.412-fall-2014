@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Zuordnungen und Hausaufgaben
 parent_type: CourseSection
+parent_uid: a5220f7a-d962-f3d9-def2-591a2767d8b9
 resourcetype: Other
 title: "Formular f\xFCr Lesenotizen - 21G.412 Fall 2014"
 uid: d1d4b38f-8d6a-d03b-169a-ed9ebd71c8e7

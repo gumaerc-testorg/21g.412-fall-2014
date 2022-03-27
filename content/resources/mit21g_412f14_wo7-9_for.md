@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Materialien, Texte und Notizen
 parent_type: CourseSection
+parent_uid: 8f935e55-bfb6-2b93-cb4b-250343184c1c
 resourcetype: Document
 title: Formelle Aussagen zu einem Drama - 21G.412 Fall 2014
 uid: 8e6f8139-2397-af9a-d9c3-fac42cdf6fec
