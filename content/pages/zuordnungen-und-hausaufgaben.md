@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the course assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Zuordnungen und Hausaufgaben
 uid: a5220f7a-d962-f3d9-def2-591a2767d8b9
 ---
@@ -7,8 +10,8 @@ uid: a5220f7a-d962-f3d9-def2-591a2767d8b9
 Lesenotizen
 -----------
 
-*   [Formular für Lesenotizen (PDF)]({{< baseurl >}}/resources/mit21g_412f14_lesenotizen2)
-*   [Formular für Lesenotizen (DOC)]({{< baseurl >}}/resources/mit21g_412f14_wk1_lese-1)
+*   {{% resource_link 7f519d99-1191-1521-3be5-f4c428ad4e22 "Formular für Lesenotizen (PDF)" %}}
+*   {{% resource_link d1d4b38f-8d6a-d03b-169a-ed9ebd71c8e7 "Formular für Lesenotizen (DOC)" %}}
 
 ### Lesejournal
 
@@ -33,17 +36,17 @@ Hausaufgaben
 
 ### Woche 3–4: "Die Judenbuche"
 
-*   [Anleitungen zum 1. Ausatz (PDF)]({{< baseurl >}}/resources/mit21g_412f14_hausarbeit)
+*   {{% resource_link 6637e607-3ae8-35c9-215f-d9e7a12f4267 "Anleitungen zum 1. Ausatz (PDF)" %}}
 
 ### Woche 5–6: "Bahnwärter Thiel"
 
-*   [Hausaufgabe für Donnerstag (2.10.) (PDF)]({{< baseurl >}}/resources/mit21g_412f14_thiel)
-*   [Hausaufgabe für Donnerstag (7.10.) (PDF)]({{< baseurl >}}/resources/mit21g_412f14_donnerstag)
+*   {{% resource_link 589f025e-6393-c4e6-6777-7682f064dbd7 "Hausaufgabe für Donnerstag (2.10.) (PDF)" %}}
+*   {{% resource_link 4d88ef9c-3a9d-a709-00d3-b6748d0d6f8d "Hausaufgabe für Donnerstag (7.10.) (PDF)" %}}
 
 ### Woche 10–11: "Die Physiker"
 
-*   [Brainstorming für Hausarbeit 2 (PDF)]({{< baseurl >}}/resources/mit21g_412f14_brainstorming)
-*   [Anleitung zum 2. Aufsatz (PDF)]({{< baseurl >}}/resources/mit21g_412f14_physiker)
+*   {{% resource_link 86c2f45d-790b-6afe-2ee7-df8b182adf96 "Brainstorming für Hausarbeit 2 (PDF)" %}}
+*   {{% resource_link dcb7d3fc-b221-a037-c970-878867235570 "Anleitung zum 2. Aufsatz (PDF)" %}}
 
 ### Woche 11–13: "Happy Birthday, Türke!"
 
@@ -57,4 +60,4 @@ Sehen Sie sich den Film an und schreiben Sie ungefähr 12 Sätze:
 Abschlussprojekte
 -----------------
 
-*   [Anleitung für die Abschlussprojekte (PDF)]({{< baseurl >}}/resources/mit21g_412f14_abschlusprojekt)
+*   {{% resource_link 9921ec14-5a3f-763f-2cce-caf2a00d75ab "Anleitung für die Abschlussprojekte (PDF)" %}}

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on course topics, texts, films, and
+  other materials.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Materialien, Texte und Notizen
 uid: 8f935e55-bfb6-2b93-cb4b-250343184c1c
 ---
@@ -62,9 +66,9 @@ _Scuderi_ lesen bis S. 46
 {{< tdopen >}}
 
 
-[Formular für Lesenotizen (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wk1_neu_les)
+{{% resource_link 160bc7a2-15e3-f05b-6e79-22eb1408b2fe "Formular für Lesenotizen (PDF)" %}}
 
-[Formular für Lesenotizen (DOC)]({{< baseurl >}}/resources/mit21g_412f14_wk1_lese-1)
+{{% resource_link d1d4b38f-8d6a-d03b-169a-ed9ebd71c8e7 "Formular für Lesenotizen (DOC)" %}}
 
 
 {{< tdclose >}}
@@ -94,36 +98,36 @@ Besprechung des Textes
 {{< tdopen >}}
 _Scuderi_ lesen bis Ende
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
-[Antiquierte Vokabeln im Text (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wk2-3_scu)
+{{% resource_link 206051a7-c768-d6df-c6f8-490c79eba25d "Antiquierte Vokabeln im Text (PDF)" %}}
 
-[Sprache und Inhalt (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wk2-3_spr_u)
+{{% resource_link d105f945-a757-2c8f-9f34-f6a32af30af8 "Sprache und Inhalt (PDF)" %}}
 
-[Über einen literarischen Text sprechen (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wk2-3_ueb)
+{{% resource_link 38003661-9ea1-4aa8-cdbc-c7d93ae6364a "Über einen literarischen Text sprechen (PDF)" %}}
 
-[Analyse einer literarischen Figur (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wk2-3_brain)
+{{% resource_link 76e0d9ad-5624-629d-ad75-cbd2fb0e736d "Analyse einer literarischen Figur (PDF)" %}}
 
-[Temporale Diskursverbindungen (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wk2-3_tem)
+{{% resource_link 4b4aa803-e3cb-8787-8901-18f53363428b "Temporale Diskursverbindungen (PDF)" %}}
 
-[Kausale Diskursverbindungen (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wk2-3_caus)
+{{% resource_link ef494818-796a-35b0-6c03-57cec1c6a1fc "Kausale Diskursverbindungen (PDF)" %}}
 
-[Definition: Die Novelle (1) (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wk2-3_die)
+{{% resource_link 95c0d810-3ff9-4488-674b-37847bb88a43 "Definition: Die Novelle (1) (PDF)" %}}
 
-[Definition: Die Novelle (2) (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wk2-3_die_n)
+{{% resource_link 282bb345-b83d-7f29-ea0c-724f90d986e5 "Definition: Die Novelle (2) (PDF)" %}}
 
-[Charakteranalyse: Cardillac (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo2-3_cha)
+{{% resource_link 09fe8b08-15db-1d14-73a8-0bf20cb426bc "Charakteranalyse: Cardillac (PDF)" %}}
 
-[Redemittel: Diskussionen (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wk2-3_spra)
+{{% resource_link 4e68ca6f-fe27-1485-f017-cefeae73099f "Redemittel: Diskussionen (PDF)" %}}
 
-[Anleitungen für Referate / Diskussionen (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wk2-3_anle)
+{{% resource_link bb06d6d7-2ff2-beeb-0a5e-eb06ed4ff3e7 "Anleitungen für Referate / Diskussionen (PDF)" %}}
 
-[Fragen zur Interpretation (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wk2-3_frag)
+{{% resource_link bc8a09f8-ace0-21cc-7087-48116bd383d9 "Fragen zur Interpretation (PDF)" %}}
 
-[Redemittel: Referate (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wk2-3_red)
+{{% resource_link 36ad8b70-a659-fa5e-b90e-d6c06b3af233 "Redemittel: Referate (PDF)" %}}
 
-[Referate: Feedback (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wk2-3_ref)
+{{% resource_link 8c2c8d6d-708e-5c53-bc3b-98952d46f2c0 "Referate: Feedback (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -183,18 +187,18 @@ Textreferenzen
 {{< tdopen >}}
 Judenbuche lesen bis Ende
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
-[Aufteilung Referate (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo3-4_ref_l)
+{{% resource_link aa3bdb8c-dd69-87a9-8af8-586899bacdb2 "Aufteilung Referate (PDF)" %}}
 
-[Definition: Sittengemälde (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo3-4_def)
+{{% resource_link 3c7682c0-5f51-c6e2-7608-842acace1b3f "Definition: Sittengemälde (PDF)" %}}
 
 [Informationen zu Westfalen](http://www.lwl.org/westfaelische-geschichte/portal/Internet/dokumentation/orte_territorien/territorien/haupt.php?urlNeu=)
 
-[Literarische Termini (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo3-4_lit)
+{{% resource_link 24914f70-b947-729c-1724-33d9e034d7a9 "Literarische Termini (PDF)" %}}
 
-[Friedrichs Entwicklung zum Mörder(PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo3-4_frie)
+{{% resource_link 80a9277e-1392-9676-600e-9c74cf130df1 "Friedrichs Entwicklung zum Mörder(PDF)" %}}
 
 
 {{< tdclose >}}
@@ -260,14 +264,14 @@ Symbole und Themen
 {{< tdopen >}}
 _Bahnwärter_ bis Ende lesen
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
-[Redemittel für Vergleiche (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo5-6_rede)
+{{% resource_link 2c6e9353-f0fc-9a60-381a-f86987dbacc5 "Redemittel für Vergleiche (PDF)" %}}
 
-[Wortfeld "Recht und Gesetz" Teil 1 (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo5-6_rech)
+{{% resource_link 567fcf14-fa9e-b0d0-043e-77c72f6386d1 "Wortfeld \"Recht und Gesetz\" Teil 1 (PDF)" %}}
 
-[Wortfeld "Recht und Gesetz" Teil 2 (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo5-6_rech_u)
+{{% resource_link 148c364c-0905-1281-9658-cdf07c80f658 "Wortfeld \"Recht und Gesetz\" Teil 2 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -327,10 +331,10 @@ Formelle Aussagen zu einem Drama Kulissen, Bühnenbild, Kostüme
 {{< tdopen >}}
 _Dreigroschenoper_ bis S. 70 lesen
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="7" >}}
 
 
-[Wortfeld "Recht und Gesetz" Teil 3 (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo7-9_rec)
+{{% resource_link 2edcbbf8-4291-caf9-4d57-8cf121692629 "Wortfeld \"Recht und Gesetz\" Teil 3 (PDF)" %}}
 
 Jerry Landon. "[Mack The Knife - Robbie Williams Live at The Royal Albert](http://www.youtube.com/watch?v=XpkCazstUhM&feature=fvw)." October 8, 2008. YouTube.
 
@@ -340,19 +344,19 @@ dorcm1973. "[The Muppet Show: Dr Teeth & Sam The Eagle - "Mack The Knife"](http:
 
 Lotte Lenya singt (circa 1920s): abfabinri. "[Mackie Messer Lied](https://www.youtube.com/watch?v=mpMh5auMaVQ&feature=related)." July 4, 2008. YouTube.
 
-[Formelle Aussagen zu einem Drama (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo7-9_for)
+{{% resource_link 8e6f8139-2397-af9a-d9c3-fac42cdf6fec "Formelle Aussagen zu einem Drama (PDF)" %}}
 
-[Die Theorie des dialektischen Materialismus (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo7-9_dial)
+{{% resource_link c0ccbbd2-ab69-ef8f-00fb-45f33422c102 "Die Theorie des dialektischen Materialismus (PDF)" %}}
 
-[Brechts Anmerkungen zur Dreigroschenoper (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo7-9_ma)
+{{% resource_link 5b94fd2a-4ccc-1a06-d1d2-4e4a042f4d95 "Brechts Anmerkungen zur Dreigroschenoper (PDF)" %}}
 
-[Die Rolle der Songs (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo7-9_3go)
+{{% resource_link e6d079dd-1b1c-03c2-a3b7-f82cb4e64268 "Die Rolle der Songs (PDF)" %}}
 
-[Zusammenfassung: Das Epische Theater (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo7-9_das)
+{{% resource_link 13d74f97-018d-0be6-4d56-c9019b718e54 "Zusammenfassung: Das Epische Theater (PDF)" %}}
 
 "Eifersuchtsszene" aus der Dreigroschenoper Beispiel einer 'moderneren' Version. Open-Air-Spektakel von Theaterhaus Jena und JenaKultur zur Eröffnung der Kulturarena Jena 2006. \[Watch on [YouTube](https://www.youtube.com/watch?v=yPAtV-zRXUI).\]
 
-[Charakteranalyse (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo7-9_die)
+{{% resource_link d3dcae6f-3db3-a0c8-de05-f4840b5baf6c "Charakteranalyse (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -460,24 +464,24 @@ _Physiker_ bis Ende lesen
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
-[Wortfeld "Recht und Gesetz" Teil 4 (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo10-11_rec)
+{{% resource_link 27aabfc2-366e-7d9b-54f4-55ffd7fa23eb "Wortfeld \"Recht und Gesetz\" Teil 4 (PDF)" %}}
 
-[Rezensionen zu "Die Physiker" (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo10-11_int)
+{{% resource_link 8a53fbb3-975a-ac18-5adf-381b3f0c6599 "Rezensionen zu \"Die Physiker\" (PDF)" %}}
 
-[Über eine Theateraufführung sprechen (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo10-11_ueb)
+{{% resource_link 7301edd2-61e8-3ea4-3590-154936f5e705 "Über eine Theateraufführung sprechen (PDF)" %}}
 
 Aufführung: Die Physiker. Aufführung durch Studenten der German Division der Abteilung für Moderne Sprachen der Texas State Universität. \[Watch on [YouTube](https://www.youtube.com/watch?v=P16Rznzm2ac).\]
 
-[Diskursverbindungen und Diskurpartikel (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo10-11_di)
+{{% resource_link fbb1f69c-6991-fec6-6241-ee9c8c6fcc18 "Diskursverbindungen und Diskurpartikel (PDF)" %}}
 
-[Übung zu erweiterten Partizipialkonstruktionen (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo10-11_ext)
+{{% resource_link f9efe2d0-dd25-b944-a362-fb47bf0cf18f "Übung zu erweiterten Partizipialkonstruktionen (PDF)" %}}
 
-[Übung zu erweiterten Partizipialkonstruktionen (answer key) (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo10-11_expa)
+{{% resource_link de361b30-e6fb-ffac-9328-5c9fe9beec13 "Übung zu erweiterten Partizipialkonstruktionen (answer key) (PDF)" %}}
 
-[Duerrenmatt-Zitate und Kritik in "Die Physiker" (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo10-11_zita)
+{{% resource_link 9f9b5ede-51fa-6fb6-1e1e-aaae5e8cdd85 "Duerrenmatt-Zitate und Kritik in \"Die Physiker\" (PDF)" %}}
 
 TextundBuehne. "[Friedrich Dürrenmatt über das Theater (schweizerdeutsch)](https://www.youtube.com/watch?v=ij_cFJjJwIg)." November 29, 2012. YouTube.
 
@@ -535,22 +539,22 @@ Figurenanalyse
 {{< tdopen >}}
  
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 ### Film
 
 [_Happy Birthday, Türke!_](http://www.imdb.com/title/tt0102000). Directed by Doris Dorrie. Color, 109 min. 1992. (Deutschland)
 
-[Rezensionen zum Buch (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo11-13_jak)
+{{% resource_link e963b9e3-d8d9-9b27-ceda-c13de8b74d01 "Rezensionen zum Buch (PDF)" %}}
 
 [Vokabeln zum Text](https://quizlet.com/_6uhxg)
 
-[Recherchen zum Autor und zum Genre (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo11-13_arb)
+{{% resource_link 23237c5e-779d-927d-54c5-b910bb913e77 "Recherchen zum Autor und zum Genre (PDF)" %}}
 
-[Diskussionsfragen zum Text (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo11-13_fra)
+{{% resource_link ea4bfa6d-9896-3775-9e5f-eaf4c409f121 "Diskussionsfragen zum Text (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Theorie: Erzählhaltung (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo11-13_erz)
+{{% resource_link e77d7aee-65c9-94d2-520f-b9037a2add7a "Theorie: Erzählhaltung (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -616,22 +620,22 @@ Referat 5
 {{< tdopen >}}
  
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 ### Film
 
 [_Das Parfum: Die Geschichte eines Mörders_](http://www.cinema.de/film/das-parfum-die-geschichte-eines-moerders,1308090.html). Directed by Tom Tykwer. Color, 147 min. 2006.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)
 
-[Aufgabe: Textbeispiele zur Erzählhaltung (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo14-15_tex)
 
-[Theorie: Vermutungen mit Modalverben im subjektiven Gebrauch (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo14-15_oh)
+{{% resource_link e5ad89f5-0f5d-22f0-f4ef-9595ca414ffc "Aufgabe: Textbeispiele zur Erzählhaltung (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Elemente des Films "Das Parfum" (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo14-15_par)
+{{% resource_link 98446dab-2ccb-e42a-38fb-f5de0f421bcb "Theorie: Vermutungen mit Modalverben im subjektiven Gebrauch (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Vortrag / Diskussion: Visualisierungen von Geruch und dem Riechen (PDF - 1.4MB)]({{< baseurl >}}/resources/mit21g_412f14_wo14-15_pre)
+{{% resource_link 6051ef84-b57e-b317-1a30-2857981e7298 "Elemente des Films \"Das Parfum\" (PDF)" %}}
+
+{{% resource_link 086e33dd-4f09-32fd-b046-d05aa59952ca "Vortrag / Diskussion: Visualisierungen von Geruch und dem Riechen (PDF - 1.4MB)" %}}
 
 
 {{< tdclose >}}
