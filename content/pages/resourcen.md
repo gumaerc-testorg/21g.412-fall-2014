@@ -10,22 +10,22 @@ uid: c593ec30-4587-9100-44af-c7ab943b7da5
 Resourcen im Internet
 ---------------------
 
-[Nachrichten](http://web.mit.edu/21f.401/www/Nachrichten.html)
+{{% resource_link "273121be-9219-4349-aba0-5ff0ad0db679" "Nachrichten" %}}
 
-[Radio und Fernsehen](http://www.dw.de/)
+{{% resource_link "5ae13304-d3fb-4190-a44d-63abfc8fa59f" "Radio und Fernsehen" %}}
 
-[Podcasts](http://web.mit.edu/course/21/21f.405/www/Podcasts.html)
+{{% resource_link "7dd70c28-982a-4fc3-8379-3d5dc2d6e1b3" "Podcasts" %}}
 
-[Deutsches TV - ZDF Mediathek](http://www.zdf.de/)
+{{% resource_link "1cd2a492-f47a-44b4-9bdd-2d62bbd3b803" "Deutsches TV - ZDF Mediathek" %}}
 
-[Deutsches TV - ARD Mediathek](http://www.ardmediathek.de/tv)
+{{% resource_link "4330a7d9-0616-4070-b5bf-cefce7c411a1" "Deutsches TV - ARD Mediathek" %}}
 
-[Deutsches TV - RTL Mediathek](http://rtl-now.rtl.de/)
+{{% resource_link "273a4690-e375-4bfb-b4e1-ae3a833aa600" "Deutsches TV - RTL Mediathek" %}}
 
-[Zeitungen und Zeitschriften](http://web.mit.edu/21f.401/www/Zeitungen.html)
+{{% resource_link "ebd6713a-a89d-4325-8aab-07eff169290d" "Zeitungen und Zeitschriften" %}}
 
-[Deutch an MIT](http://quizlet.com/group/39806/)
+{{% resource_link "f85545d6-2083-4a31-85c2-a73213ef8676" "Deutch an MIT" %}}
 
-[Deutsch lernen im Internet](http://web.archive.org/web/20160201221116/http://www.germanprofessor.org/)
+{{% resource_link "d67b1b52-da15-4c60-b682-40ab6d9c497c" "Deutsch lernen im Internet" %}}
 
-[Oxford Language Dictionaries](https://www.oxforddictionaries.com/)
+{{% resource_link "21d242fc-1e96-46a9-b6d0-8078eeedd14c" "Oxford Language Dictionaries" %}}
