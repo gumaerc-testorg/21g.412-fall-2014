@@ -3,6 +3,7 @@ content_type: resource
 description: "This resource contains the information regarding anleitungen f\xFCr\
   \ referate / diskussionen."
 file: /courses/21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014/bb06d6d72ff2beeb0a5eeb06ed4ff3e7_MIT21G_412F14_Wk2-3_ANLE.pdf
+file_size: 461980
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
