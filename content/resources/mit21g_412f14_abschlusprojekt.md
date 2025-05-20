@@ -3,7 +3,7 @@ content_type: resource
 description: "This is a file that contains information regarding advanced german literature\
   \ & culture: madness, murder, mysteries zuordnungen und hausaufgaben anleitung f\xFC\
   r die Abschlussprojekte."
-file: /ol-ocw-studio-app/courses/21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014/9921ec145a3f763f2ccecaf2a00d75ab_MIT21G_412F14_Abschlusprojekt.pdf
+file: /courses/21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014/9921ec145a3f763f2ccecaf2a00d75ab_MIT21G_412F14_Abschlusprojekt.pdf
 file_size: 297040
 file_type: application/pdf
 learning_resource_types: []
