@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding wortfeld "recht und
   gesetz" teil 3.
-file: /ol-ocw-studio-app/courses/21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014/2edcbbf84291caf94d578cf121692629_MIT21G_412F14_Wo7-9_Rec.pdf
+file: /courses/21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014/2edcbbf84291caf94d578cf121692629_MIT21G_412F14_Wo7-9_Rec.pdf
 file_size: 452973
 file_type: application/pdf
 learning_resource_types: []

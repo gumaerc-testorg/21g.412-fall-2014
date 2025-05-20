@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information regarding friedrichs entwicklung\
   \ zum m\xF6rder."
-file: /ol-ocw-studio-app/courses/21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014/80a9277e13929676600e9c74cf130df1_MIT21G_412F14_Wo3-4_Frie.pdf
+file: /courses/21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014/80a9277e13929676600e9c74cf130df1_MIT21G_412F14_Wo3-4_Frie.pdf
 file_size: 217570
 file_type: application/pdf
 learning_resource_types: []

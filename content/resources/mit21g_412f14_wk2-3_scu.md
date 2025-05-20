@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding antiquierte vokabeln
   im text.
-file: /ol-ocw-studio-app/courses/21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014/206051a7c768d6dfc6f8490c79eba25d_MIT21G_412F14_Wk2-3_Scu.pdf
+file: /courses/21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014/206051a7c768d6dfc6f8490c79eba25d_MIT21G_412F14_Wk2-3_Scu.pdf
 file_size: 97131
 file_type: application/pdf
 learning_resource_types: []
