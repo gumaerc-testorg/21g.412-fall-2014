@@ -45,7 +45,7 @@ Texts
 
 ### Film
 
-*   _{{% resource_link "4256ee54-5587-49e1-9e2b-03720e344d1c" "Das Parfum: Die Geschichte eines Mörders" %}}_. Directed by Tom Tykwer. Color, 147 min. 2006.
+*   _[Das Parfum: Die Geschichte eines Mörders](http://www.imdb.com/title/tt0396171/)_. Directed by Tom Tykwer. Color, 147 min. 2006.
 
 ### Recommended
 
@@ -154,7 +154,7 @@ Cooperation between students is absolutely essential to learning a language. Whi
 The FL&L Department has formulated this policy for all plagiarism cases:  
 Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work.
 
-For further guidance on the proper forms of attribution consult the handbook of {{% resource_link "3147d938-9732-423a-bb12-5782a6672d2c" "Academic Integrity" %}}.
+For further guidance on the proper forms of attribution consult the handbook of [Academic Integrity](http://integrity.mit.edu).
 
 Assignments
 -----------
